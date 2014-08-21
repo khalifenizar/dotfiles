@@ -36,6 +36,7 @@ install ag
 #install foremost
 install git
 #install hashpump
+install heroku-toolbelt
 install hub
 install imagemagick --with-webp
 #install lynx
