@@ -4,6 +4,7 @@
 install caskroom/cask/brew-cask
 tap caskroom/versions
 
+cask install doxie 2> /dev/null
 cask install dropbox 2> /dev/null
 cask install google-chrome 2> /dev/null
 #cask install google-chrome-canary 2> /dev/null
@@ -12,6 +13,7 @@ cask install google-chrome 2> /dev/null
 cask install lastpass-universal 2> /dev/null
 #cask install miro-video-converter 2> /dev/null
 #cask install opera 2> /dev/null
+cask install skitch 2> /dev/null
 cask install skype 2> /dev/null
 cask install spotify 2> /dev/null
 cask install steam 2> /dev/null
