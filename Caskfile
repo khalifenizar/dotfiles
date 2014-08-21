@@ -4,6 +4,7 @@
 install caskroom/cask/brew-cask
 tap caskroom/versions
 
+cask install appcleaner 2> /dev/null
 cask install doxie 2> /dev/null
 cask install dropbox 2> /dev/null
 cask install google-chrome 2> /dev/null
