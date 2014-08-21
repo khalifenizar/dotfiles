@@ -51,7 +51,9 @@ install webkit2png
 #install zopfli
 
 # Programming runtimes
+install go
 install node  # This installs `npm` too using the recommended installation method
+install python
 install homebrew/versions/lua52
 install homebrew/php/php55 --with-gmp
 
