@@ -61,5 +61,11 @@ install homebrew/php/php55 --with-gmp
 install homebrew/php/php55-mcrypt
 install homebrew/php/composer
 
+# Databases
+install mongodb
+install mysql
+install postgresql
+install redis
+
 # Remove outdated versions from the cellar
 cleanup
