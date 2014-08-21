@@ -36,6 +36,7 @@ install ag
 #install foremost
 install git
 #install hashpump
+install hub
 install imagemagick --with-webp
 #install lynx
 #install nmap
