@@ -28,7 +28,6 @@ install wget --enable-iri
 install vim --override-system-vi
 install homebrew/dupes/grep
 install homebrew/dupes/screen
-install homebrew/php/php55 --with-gmp
 
 # Install other useful binaries
 #install bfg
@@ -39,7 +38,6 @@ install git
 install imagemagick --with-webp
 #install lynx
 #install nmap
-install node # This installs `npm` too using the recommended installation method
 #install p7zip
 install pigz
 #install pv
@@ -51,7 +49,10 @@ install webkit2png
 #install xpdf
 #install zopfli
 
+# Programming runtimes
+install node  # This installs `npm` too using the recommended installation method
 install homebrew/versions/lua52
+install homebrew/php/php55 --with-gmp
 
 # Remove outdated versions from the cellar
 cleanup
