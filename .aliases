@@ -145,3 +145,6 @@ command -v npm > /dev/null && alias npme="npm --registry http://registry.npmjs.e
 
 # Shorter command history search
 alias hag="history | ag"
+
+# Common typos
+alias heroky="heroku"
