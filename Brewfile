@@ -56,6 +56,8 @@ install node  # This installs `npm` too using the recommended installation metho
 install python
 install homebrew/versions/lua52
 install homebrew/php/php55 --with-gmp
+install homebrew/php/php55-mcrypt
+install homebrew/php/composer
 
 # Remove outdated versions from the cellar
 cleanup
