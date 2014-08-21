@@ -31,25 +31,25 @@ install homebrew/dupes/screen
 install homebrew/php/php55 --with-gmp
 
 # Install other useful binaries
-install bfg
+#install bfg
 #install exiv2
-install foremost
+#install foremost
 install git
-install hashpump
+#install hashpump
 install imagemagick --with-webp
-install lynx
-install nmap
+#install lynx
+#install nmap
 install node # This installs `npm` too using the recommended installation method
-install p7zip
+#install p7zip
 install pigz
-install pv
-install rename
-install sqlmap
+#install pv
+#install rename
+#install sqlmap
 install tree
-install ucspi-tcp # `tcpserver` et al.
+#install ucspi-tcp # `tcpserver` et al.
 install webkit2png
-install xpdf
-install zopfli
+#install xpdf
+#install zopfli
 
 install homebrew/versions/lua52
 
