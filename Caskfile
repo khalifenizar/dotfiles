@@ -15,3 +15,11 @@ cask install sublime-text 2> /dev/null
 cask install transmission 2> /dev/null
 cask install virtualbox 2> /dev/null
 cask install vlc 2> /dev/null
+
+# Quick Look plugins
+cask install qlcolorcode 2> /dev/null
+cask install qlmarkdown 2> /dev/null
+cask install qlprettypatch 2> /dev/null
+cask install qlstephen 2> /dev/null
+cask install quicklook-csv 2> /dev/null
+cask install quicklook-json 2> /dev/null
