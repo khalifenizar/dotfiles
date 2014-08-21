@@ -30,6 +30,7 @@ install homebrew/dupes/grep
 install homebrew/dupes/screen
 
 # Install other useful binaries
+install ag
 #install bfg
 #install exiv2
 #install foremost
