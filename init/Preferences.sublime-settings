@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"copy_with_empty_selection": false,
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
