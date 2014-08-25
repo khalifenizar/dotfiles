@@ -1,6 +1,5 @@
-" Use the Solarized Dark theme
-set background=dark
-colorscheme solarized
+" Use the Tomorrow Night Eighties theme
+colorscheme Tomorrow-Night-Eighties
 
 " Make Vim more useful
 set nocompatible
