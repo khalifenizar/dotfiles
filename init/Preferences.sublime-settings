@@ -2,6 +2,7 @@
 	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"copy_with_empty_selection": false,
 	"default_line_ending": "unix",
+	"drag_text": false,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
