@@ -60,6 +60,7 @@ install homebrew/versions/lua52
 install homebrew/php/php55 --with-gmp
 install homebrew/php/php55-mcrypt
 install homebrew/php/composer
+install homebrew/php/phpunit
 
 # Databases
 install mongodb
