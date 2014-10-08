@@ -61,6 +61,7 @@ install homebrew/php/php55 --with-gmp
 install homebrew/php/php55-mcrypt
 install homebrew/php/composer
 install homebrew/php/phpunit
+install homebrew/php/php55-pdo-pgsql
 
 # Databases
 install mongodb
