@@ -4,6 +4,7 @@
 install caskroom/cask/brew-cask
 tap caskroom/versions
 
+cask install alfred 2> /dev/null
 cask install appcleaner 2> /dev/null
 cask install bartender 2> /dev/null
 cask install copy 2> /dev/null
@@ -35,3 +36,6 @@ cask install qlprettypatch 2> /dev/null
 cask install qlstephen 2> /dev/null
 cask install quicklook-csv 2> /dev/null
 cask install quicklook-json 2> /dev/null
+
+# Integrate with Alfred
+cask alfred link
