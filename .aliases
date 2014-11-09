@@ -48,7 +48,7 @@ alias timer='echo "Timer started. Stop with Ctrl-D." && date && time cat && date
 alias update='sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup; npm update npm -g; npm update -g; sudo gem update --system; sudo gem update'
 
 # Safely update npm global packages
-alias npm-update='set -e; set -x; for package in $(npm -g outdated --parseable --depth=0 | cut -d: -f2); do npm -g install "$package"; done'
+alias npm-update='set -e; set -x; for package in $(npm -g outdated --parseable --depth=0 | cut -d: -f2); do npm -g install "$package"; done; set +x;'
 
 # IP addresses
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
